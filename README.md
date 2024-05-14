@@ -10,7 +10,7 @@ For a nearly complete version, include the following files in your project:
 - `GameManager.cs`
 - `Home.cs`
 
-This provides every piece of code needed up until 2:18:27 in the tutorial. You will need to manually add the `IEnumerator PlayAgain()` function.
+This provides every piece of code needed up until 2:18:27 in the tutorial.
 
 ## Bare Minimum Version
 
@@ -20,7 +20,7 @@ For a bare minimum version, include these files in your project:
 - `PlayerControls.cs`
 - `PlayerControls.inputactions`
 
-This provides every piece of code needed up until 0:51:32 in the tutorial, covering the frogger movement section, which is the hardest part of implementing the new input system.
+This provides every piece of code needed up until 0:51:32 in the tutorial, covering the frogger movement section.
 
 ## Email
 
