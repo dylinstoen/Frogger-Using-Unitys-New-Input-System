@@ -1,8 +1,8 @@
 # Tutorial
 
-## Bare Minimum Version
+## Bare Minimum Tutorial Setup
 
-Drag and Drop all of the files inside the "Bare Minimum Tutorial Setup" folder for a bare minimum version, include these files in your project:
+Drag and Drop all of the files inside the "Bare Minimum Setup" folder for a bare minimum version, include these files in your project:
 
 - `Frogger (Bare Minimum).cs`
 - `PlayerControls.cs`
@@ -11,7 +11,7 @@ Drag and Drop all of the files inside the "Bare Minimum Tutorial Setup" folder f
 This provides every piece of code needed up until 0:51:32 in the tutorial, covering the frogger movement section.
 
 
-## 99% Complete Version
+## Mostly Completed Tutorial Setup
 
 Drag and Drop all of the files inside the "Mostly Completed Tutorial Setup" folder for a nearly complete version, include the following files in your project:
 
@@ -23,15 +23,19 @@ Drag and Drop all of the files inside the "Mostly Completed Tutorial Setup" fold
 
 This provides every piece of code needed up until 2:18:27 in the tutorial.
 
-## Beyond the Tutorial
+## Beyond the Tutorial Setup
 
-Drag and Drop all of the files inside the "Beyond The Tutorial Setup" folder for a version that has stuff beyond the tutorial, include these files in your project:
+Drag and Drop all of the files inside the "Beyond the Tutorial Setup" folder for a version which cleans up tutorial scripts seperating the logic in seperate sceipts, include these files in your project:
 
-- `Frogger (Bare Minimum).cs`
+- `Frogger.cs`
+- `GameManager.cs`
+- `Home.cs`
+- `InputManager.cs`
+- `MoveCycle.cs`
 - `PlayerControls.cs`
 - `PlayerControls.inputactions`
 
-This is a completed version of Frogger but I spent extra time refactoring the code seperating the input from the logic itself.
+This is a 100% completed version of Frogger but I spent a little extra time refactoring the code.
 
 
 ## Email
