@@ -1,14 +1,28 @@
 # Tutorial
 
-- A. for a 99% complete version, put the files
-  - "Frogger.cs, PlayerControls.cs, PlayerControls.inputactions, GameManager.cs, Home.cs" inside your project.
+## 99% Complete Version
 
-This is every peice of code needed up until 2:18:27. You'll have to add the "IEnumerator PlayAgain()" function manually.
+For a nearly complete version, include the following files in your project:
 
-- B. for a bare minimum version put the files
-  - "Frogger (Bare Minimum).cs, PlayerControls.cs, PlayerControls.inputactions" inside your project.
+- `Frogger.cs`
+- `PlayerControls.cs`
+- `PlayerControls.inputactions`
+- `GameManager.cs`
+- `Home.cs`
 
-This is every peice of code needed up until 0:51:32. This should get you past the frogger movement section which is the hardest part when it comes to implementing the new input system.
+This provides every piece of code needed up until 2:18:27 in the tutorial. You will need to manually add the `IEnumerator PlayAgain()` function.
+
+## Bare Minimum Version
+
+For a bare minimum version, include these files in your project:
+
+- `Frogger (Bare Minimum).cs`
+- `PlayerControls.cs`
+- `PlayerControls.inputactions`
+
+This provides every piece of code needed up until 0:51:32 in the tutorial, covering the frogger movement section, which is the hardest part of implementing the new input system.
 
 ## Email
-For an explanation of the Frogger script email me questions at dstoen20@gmail.com
+
+For further explanations or questions about the Frogger script, please email me at [dstoen20@gmail.com](mailto:dstoen20@gmail.com).
+"""
