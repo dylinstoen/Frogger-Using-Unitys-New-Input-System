@@ -8,8 +8,7 @@ Drag and Drop all of the files inside the "Bare Minimum Setup" folder for a bare
 - `PlayerControls.cs`
 - `PlayerControls.inputactions`
 
-This provides every piece of code needed up until 0:51:32 in the tutorial, covering the frogger movement section.
-
+This provides every piece of code needed up until 0:51:32 in the tutorial, covering the frogger movement section. Takes little to no manual setup just drag and drop and it should work.
 
 ## Mostly Completed Tutorial Setup
 
@@ -20,9 +19,9 @@ Drag and Drop all of the files inside the "Mostly Completed Tutorial Setup" fold
 - `PlayerControls.inputactions`
 - `GameManager.cs`
 - `Home.cs`
-- `MoveCycle.cs` or `MoveCycle (Odin Serializer).cs`
+- `MoveCycle.cs` or `MoveCycle (Odin Serializer).cs` if you have the `Odin Serializer` add-on installed
 
-This provides every piece of code needed up until 2:18:27 in the tutorial. `MoveCycle (Odin Serializer).cs` requires the `Odin Serializer` add-on, use `MoveCycle.cs` if you don't have that add-on.
+This provides every piece of code needed up until 2:18:27 in the tutorial. Takes a little manual setup to get started but following the tutorial should get you fully setup.
 
 ## Beyond the Tutorial Setup
 
@@ -39,10 +38,10 @@ Drag and Drop all of the files inside the "Beyond the Tutorial Setup" folder for
 - `StatsGUIVisualTree.uxml`
 - `PanelSettings.asset`
 - `8-bit Arcade In.ttf`
+- `MoveCycle.cs` or `MoveCycle (Odin Serializer).cs` if you have the `Odin Serializer` add-on installed
 
-This is a 100% completed version of Frogger but I spent a little extra time refactoring the code. To get it working you need to install 
-- `UI Toolkit`
-- 
+This is a 100% completed version of Frogger but I spent a little extra time refactoring the code. Requires `UI Toolkit` and it takes quite a bit of manual work to get setup, it also requires knoweldge on `UI Toolkits`.
+
 
 
 ## Email
