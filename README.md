@@ -8,7 +8,7 @@ Drag and Drop all of the files inside the "Bare Minimum Setup" folder for a bare
 - `PlayerControls.cs`
 - `PlayerControls.inputactions`
 
-This provides every piece of code needed up until [0:51:32](https://youtu.be/GxlxZ5q__Tc?si=IwRe5YcFsOCC25dQ&t=3082) in the tutorial, covering the frogger movement section. Takes little to no manual setup just drag and drop and it should work.
+This is a 10% completed version of Frogger. It provides every piece of code needed up until [0:51:32](https://youtu.be/GxlxZ5q__Tc?si=IwRe5YcFsOCC25dQ&t=3082) in the tutorial, covering the frogger movement section. Takes little to no manual setup just drag and drop and it should work.
 
 ## Mostly Completed Tutorial Setup
 
