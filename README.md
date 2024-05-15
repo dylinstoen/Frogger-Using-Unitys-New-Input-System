@@ -21,7 +21,7 @@ Drag and Drop all of the files inside the "Mostly Completed Tutorial Setup" fold
 - `Home.cs`
 - `MoveCycle.cs` or `MoveCycle (Odin Serializer).cs` if you have the `Odin Serializer` add-on installed
 
-This is a 99% completed version of Frogger. It provides every piece of code needed up until [2:18:27](https://youtu.be/GxlxZ5q__Tc?si=k-xLhMrlN-F8yW6h&t=8307) in the tutorial. Takes a little manual setup but nothing outside the tutorial.
+This is a 90% completed version of Frogger. It provides every piece of code needed up until [2:18:27](https://youtu.be/GxlxZ5q__Tc?si=k-xLhMrlN-F8yW6h&t=8307) in the tutorial. Takes a little manual setup but nothing outside the tutorial.
 
 ## Beyond the Tutorial Setup
 
