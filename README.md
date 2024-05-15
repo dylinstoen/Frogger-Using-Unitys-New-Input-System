@@ -1,5 +1,7 @@
 # Tutorial
 
+## Description: Convert the code from the Frogger Tutorial found by clicking this [Youtube Link](https://www.youtube.com/watch?v=GxlxZ5q__Tc&t=8333s). Tutorial uses Unity's standard input system but I made a version that converts it to use Unity's new input system
+
 ## Bare Minimum Tutorial Setup
 
 Drag and Drop all of the files inside the "Bare Minimum Setup" folder for a bare minimum version, include these files in your project:
