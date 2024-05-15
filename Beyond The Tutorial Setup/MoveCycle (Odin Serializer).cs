@@ -8,6 +8,7 @@ public class MoveCycle : MonoBehaviour
 {
     public enum moveOptionsEnum {Left, Right};
     static readonly Vector2[] moveOptions = new Vector2[] {Vector2.left, Vector2.right};
+    [EnumToggleButtons, LabelText("Direction")]
     public moveOptionsEnum directionOptions;
     [SerializeField] float speed = 1f;
     [SerializeField] int size = 1;
