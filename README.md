@@ -1,4 +1,4 @@
-# Convert this [Frogger tutorial](https://www.youtube.com/watch?v=GxlxZ5q__Tc&t) made by Zigurous to use Unitys new Input System
+# Convert this [Frogger tutorial](https://www.youtube.com/watch?v=GxlxZ5q__Tc&t) code to use Unitys new Input System
 
 ## Bare Minimum Tutorial Setup
 
