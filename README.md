@@ -40,7 +40,7 @@ Drag and Drop all of the files inside the "Beyond the Tutorial Setup" folder for
 - `8-bit Arcade In.ttf`
 - `MoveCycle.cs` or `MoveCycle (Odin Serializer).cs` if you have the `Odin Serializer` add-on installed
 
-This is a 100% completed version of Frogger but I spent a little extra time refactoring the code. Requires `UI Toolkit` and it takes quite a bit of manual work to get setup, it also requires knoweldge on Unitys new `UI Toolkit` to get fully setup.
+This is an almost 100% completed version of Frogger, I still need to add the EndGame Gui stuff but I spent a little extra time refactoring the code so this one will be a little more challenging to setup then the others as its not exactly like the tutorials. It also requires `UI Toolkit` add-on and some knoweledge on how to set up a canvas. I included some refrence photos in a refrence folder but if you need more help then let me know.
 
 Shoutout to Zigurous for the awesome tutorial
 
