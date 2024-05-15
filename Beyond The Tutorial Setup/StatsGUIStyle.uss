@@ -1,0 +1,7 @@
+.header {
+    -unity-font: url("project://database/Assets/TextMesh%20Pro/Fonts/8-bit%20Arcade%20In.ttf?fileID=12800000&guid=53e024c555d71c042b75a0e129b423fe&type=3#8-bit Arcade In");
+    -unity-font-definition: initial;
+    font-size: 35px;
+    -unity-text-align: middle-left;
+    color: rgb(255, 255, 255);
+}

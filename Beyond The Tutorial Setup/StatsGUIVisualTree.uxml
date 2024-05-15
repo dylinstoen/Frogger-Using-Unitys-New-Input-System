@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StatsGUIStyle.uss?fileID=7433441132597879392&amp;guid=0c0d3d4310cf16d49bfeaa091ef85187&amp;type=3#StatsGUIStyle" />
+    <ui:VisualElement name="Container" style="flex-grow: 1; height: 42px;">
+        <ui:GroupBox name="GroupBox" style="align-items: stretch; justify-content: flex-start; align-self: stretch; flex-direction: row;">
+            <ui:Label tabindex="-1" text="Score" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Score" class="header" style="font-size: 39px; text-overflow: clip; -unity-text-align: middle-left;" />
+            <ui:Label tabindex="-1" text="Lives" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Lives" class="header" style="font-size: 39px; -unity-text-align: middle-left; text-overflow: clip;" />
+            <ui:Label tabindex="-1" text="Timer" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Time" class="header" style="font-size: 39px; -unity-text-align: middle-left; text-overflow: clip;" />
+        </ui:GroupBox>
+    </ui:VisualElement>
+</ui:UXML>
