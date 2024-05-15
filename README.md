@@ -41,6 +41,7 @@ Drag and Drop all of the files inside the "Beyond the Tutorial Setup" folder for
 - `MoveCycle.cs` or `MoveCycle (Odin Serializer).cs` if you have the `Odin Serializer` add-on installed
 
 This is an almost 100% completed version of Frogger, I still need to add the EndGame Gui but thats it. I also spent a little time outside of the tutorial refactoring the code so this one will be a little more challenging to setup then the others. It also uses the `UI Toolkit` add-on and it will require some knoweledge on how to set up a basic canvas using `UI Toolkit`.
+
 Finally, I included some refrence photos so you can see how these scripts come together. If you need any help setting it up let me know either through email, through Zigurous's discord server which can be found linked on his Youtube channel (im TurboThunder20 on there), or shoot me a private dm on discord and ill make sure to respond as quick as I can. username: turbothunder20 name: TurboThunder20
 
 Shoutout to Zigurous for the awesome tutorial
