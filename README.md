@@ -20,8 +20,9 @@ Drag and Drop all of the files inside the "Mostly Completed Tutorial Setup" fold
 - `PlayerControls.inputactions`
 - `GameManager.cs`
 - `Home.cs`
+- `MoveCycle.cs` or `MoveCycle (Odin Serializer).cs`
 
-This provides every piece of code needed up until 2:18:27 in the tutorial.
+This provides every piece of code needed up until 2:18:27 in the tutorial. `MoveCycle (Odin Serializer).cs` requires the `Odin Serializer` add-on, use `MoveCycle.cs` if you don't have that add-on.
 
 ## Beyond the Tutorial Setup
 
