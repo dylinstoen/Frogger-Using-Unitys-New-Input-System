@@ -1,6 +1,6 @@
 # Tutorial
 
-## Description: Convert the code from the Frogger Tutorial found by clicking this [Youtube Link](https://www.youtube.com/watch?v=GxlxZ5q__Tc&t=8333s). Tutorial uses Unity's standard input system but I made a version that converts it to use Unity's new input system
+## Description: Convert the code from the Frogger Tutorial fto use Unitys new Input system [Youtube Link](https://www.youtube.com/watch?v=GxlxZ5q__Tc&t=8333s)
 
 ## Bare Minimum Tutorial Setup
 
