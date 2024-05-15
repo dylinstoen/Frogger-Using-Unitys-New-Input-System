@@ -8,7 +8,7 @@ Drag and Drop all of the files inside the "Bare Minimum Setup" folder for a bare
 - `PlayerControls.cs`
 - `PlayerControls.inputactions`
 
-This provides every piece of code needed up until 0:51:32 in the tutorial, covering the frogger movement section. Takes little to no manual setup just drag and drop and it should work.
+This provides every piece of code needed up until [0:51:32](https://youtu.be/GxlxZ5q__Tc?si=IwRe5YcFsOCC25dQ&t=3082) in the tutorial, covering the frogger movement section. Takes little to no manual setup just drag and drop and it should work.
 
 ## Mostly Completed Tutorial Setup
 
@@ -21,7 +21,7 @@ Drag and Drop all of the files inside the "Mostly Completed Tutorial Setup" fold
 - `Home.cs`
 - `MoveCycle.cs` or `MoveCycle (Odin Serializer).cs` if you have the `Odin Serializer` add-on installed
 
-This provides every piece of code needed up until 2:18:27 in the tutorial. Takes a little manual setup to get started but following the tutorial should get you fully setup.
+This provides every piece of code needed up until [2:18:27](https://youtu.be/GxlxZ5q__Tc?si=k-xLhMrlN-F8yW6h&t=8307) in the tutorial. Takes a little manual setup to get started but following the tutorial should get you fully setup.
 
 ## Beyond the Tutorial Setup
 
