@@ -34,8 +34,12 @@ Drag and Drop all of the files inside the "Beyond the Tutorial Setup" folder for
 - `MoveCycle.cs`
 - `PlayerControls.cs`
 - `PlayerControls.inputactions`
+- `StatsGUIStyle.uss`
+- `StatsGUIVisualTree.uxml`
+- `PanelSettings.asset`
+- `8-bit Arcade In.ttf`
 
-This is a 100% completed version of Frogger but I spent a little extra time refactoring the code.
+This is a 100% completed version of Frogger but I spent a little extra time refactoring the code. To get it working you need to install
 
 
 ## Email
