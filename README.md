@@ -25,7 +25,7 @@ This provides every piece of code needed up until [2:18:27](https://youtu.be/Gxl
 
 ## Beyond the Tutorial Setup
 
-Drag and Drop all of the files inside the "Beyond the Tutorial Setup" folder for a version which cleans up tutorial scripts seperating the logic in seperate sceipts, include these files in your project:
+Drag and Drop all of the files inside the "Beyond the Tutorial Setup" folder for a version which seperates the input and logic into seperate scripts, include these files in your project:
 
 - `Frogger.cs`
 - `GameManager.cs`
