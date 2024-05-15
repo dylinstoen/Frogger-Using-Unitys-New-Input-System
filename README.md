@@ -42,7 +42,7 @@ Drag and Drop all of the files inside the "Beyond the Tutorial Setup" folder for
 
 This is a 100% completed version of Frogger but I spent a little extra time refactoring the code. Requires `UI Toolkit` and it takes quite a bit of manual work to get setup, it also requires knoweldge on Unitys new `UI Toolkit` to get fully setup.
 
-
+Shoutout to Zigurous for the awesome tutorial
 
 ## Email
 
