@@ -46,5 +46,4 @@ This is a 100% completed version of Frogger but I spent a little extra time refa
 
 ## Email
 
-For further explanations or questions about the Frogger script, please email me at [dstoen20@gmail.com](mailto:dstoen20@gmail.com).
-"""
+For further explanations or questions about the Frogger script, please email me at [dstoen20@gmail.com](mailto:dstoen20@gmail.com)
